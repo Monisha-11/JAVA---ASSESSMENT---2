@@ -184,7 +184,7 @@ public class Main {
 <img width="287" alt="image" src="https://user-images.githubusercontent.com/93427240/229174828-ce0863e3-c324-4052-95b4-a8830de18f85.png">
 
 
-### 3) 3.Write a program that would print the information (name, year of joining, salary, address) of three employees by creating a class named 'Employee'. The output should be as follows:
+### 3) Write a program that would print the information (name, year of joining, salary, address) of three employees by creating a class named 'Employee'. The output should be as follows:
 
 Name        Year of joining        Address
 
