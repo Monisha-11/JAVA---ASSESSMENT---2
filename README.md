@@ -1,6 +1,6 @@
 # JAVA---ASSESSMENT---2
 
-# JAVA---ASSESSMENT---2
+
 ## REGISTER NUMBER :- 212221240029
 ## NAME :- MONISHA T
 ### 1) 1.Using inheritance, one class can acquire the properties of others. Consider the following Animal class:
